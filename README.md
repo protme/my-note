@@ -1,4 +1,3 @@
-### https://www.youtube.com/watch?v=socPi5-GyIA
 
 ✨利用 Cloudflare 的免费全家桶Pages，D1数据库和 Workers，再加上现在最强的AI模型，实现加密NOTE
 
@@ -50,4 +49,4 @@ Cloudflare 使用免费 AI 是 Llama 大模型
 Cloudflare D1 数据库每天有 500 万次的读取额度
 
 
-
+### 转自https://www.youtube.com/watch?v=socPi5-GyIA  
